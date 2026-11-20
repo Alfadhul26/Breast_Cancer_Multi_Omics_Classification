@@ -65,7 +65,8 @@ with st.sidebar:
     """)
     st.divider()
     st.caption("Trained on METABRIC | Externally evaluated on TCGA-BRCA")
-    st.info("Research demonstration only. Not for clinical diagnosis or treatment decisions.")
+    st.divider()
+    st.caption("Research demonstration only. Not for clinical diagnosis or treatment decisions.")
 
 st.markdown("""
 <div class="hero">
