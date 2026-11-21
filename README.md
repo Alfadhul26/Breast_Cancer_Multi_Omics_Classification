@@ -109,7 +109,7 @@ The Streamlit application (`app.py`) provides:
 
 **Live application:** [https://breast-cancer-omics-classification.streamlit.app/]
 
-**Application Demo:** []
+**Application Demo:** [https://youtu.be/h_8qk92t_Eo]
 
 **Important:** Uploaded data must follow the same upstream normalisation and encoding conventions as the training data. The app is a **research demonstration**, not a diagnostic tool. Model probabilities are not calibrated clinical risk estimates.
 
