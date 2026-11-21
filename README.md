@@ -107,7 +107,7 @@ The Streamlit application (`app.py`) provides:
 - Individual-sample probability exploration.
 - Downloadable prediction results, retaining or generating sample identifiers as appropriate.
 
-**Live application:** []
+**Live application:** [https://breast-cancer-omics-classification.streamlit.app/]
 
 **Application Demo:** []
 
