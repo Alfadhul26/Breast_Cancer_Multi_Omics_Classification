@@ -1,4 +1,4 @@
-# Breast Cancer Molecular Subtype Classification Using Multi-Omics Data
+# Multi-Omics Integration for Breast Cancer Molecular Subtype Classification
 
 **A machine-learning project integrating gene expression, copy-number variation, and somatic mutation profiles to classify four PAM50 breast cancer molecular subtypes, with independent evaluation on TCGA-BRCA and an interactive Streamlit application.**
 
