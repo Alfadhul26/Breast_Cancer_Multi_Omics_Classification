@@ -90,10 +90,10 @@ The results below are transcribed from the final-model notebook. All metrics are
 
 | Evaluation cohort | Model | Accuracy | Balanced accuracy | Macro F1 |
 |---|---|---:|---:|---:|
-| METABRIC validation | Soft voting | 0.8895 | 0.8913 | 0.8905 |
-| METABRIC validation | Stacking | 0.8876 | 0.8864 | 0.8836 |
-| TCGA-BRCA external | Soft voting | 0.8796 | 0.8523 | 0.846 |
-| TCGA-BRCA external | Stacking | 0.8764 | 0.8532 | 0.846 |
+| METABRIC validation | Soft voting | 0.889 | 0.891 | 0.890 |
+| METABRIC validation | Stacking | 0.887 | 0.886 | 0.883 |
+| TCGA-BRCA external | Soft voting | 0.879 | 0.852 | 0.846 |
+| TCGA-BRCA external | Stacking | 0.876 | 0.853 | 0.846 |
 
 Soft voting and stacking performed similarly on the external cohort. The deployed Streamlit application uses stacking. These differences are small and should not be interpreted as evidence of superiority without uncertainty estimates or additional validation.
 
